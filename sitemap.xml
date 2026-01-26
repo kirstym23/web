@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://kirstymills.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.kirstymills.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://kirstymills.com/</loc>
+<loc>https://www.kirstymills.com/</loc>
 </url>
 <url>
-<loc>https://kirstymills.com/martin-grant-pics.html</loc>
+<loc>https://www.kirstymills.com/martin-grant-pics.html</loc>
 <lastmod>2026-01-26T23:12:57+11:00</lastmod>
 <image:image>
-<image:loc>https://kirstymills.com/media/posts/1/gallery/IMG_7490-thumbnail.JPG</image:loc>
+<image:loc>https://www.kirstymills.com/media/posts/1/gallery/IMG_7490-thumbnail.JPG</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://kirstymills.com/media/posts/1/gallery/IMG_7493-thumbnail.JPG</image:loc>
+<image:loc>https://www.kirstymills.com/media/posts/1/gallery/IMG_7493-thumbnail.JPG</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://kirstymills.com/media/posts/1/gallery/IMG_7494-thumbnail.JPG</image:loc>
+<image:loc>https://www.kirstymills.com/media/posts/1/gallery/IMG_7494-thumbnail.JPG</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://kirstymills.com/media/posts/1/gallery/IMG_7495-thumbnail.JPG</image:loc>
+<image:loc>https://www.kirstymills.com/media/posts/1/gallery/IMG_7495-thumbnail.JPG</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://kirstymills.com/media/posts/1/gallery/IMG_7519-thumbnail.JPG</image:loc>
+<image:loc>https://www.kirstymills.com/media/posts/1/gallery/IMG_7519-thumbnail.JPG</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://kirstymills.com/media/posts/1/gallery/IMG_7531-thumbnail.JPG</image:loc>
+<image:loc>https://www.kirstymills.com/media/posts/1/gallery/IMG_7531-thumbnail.JPG</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
